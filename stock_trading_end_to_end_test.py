@@ -1,7 +1,7 @@
 import pandas as pd
 import unittest
 from datetime import datetime
-from main import StockTrade
+from stock_trade import StockTrade
 
 class StockTradeTests(unittest.TestCase):
 
